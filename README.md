@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://gitlab.com/Ivsoffy">
-    <img src="https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+    <img src="https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab&logoColor=green" alt="GitLab Badge"/>
   </a>
 </div>
 <div id="views" align="center">
