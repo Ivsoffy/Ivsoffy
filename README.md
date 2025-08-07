@@ -12,7 +12,4 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=Ivsoffy&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<img src="https://raw.githubusercontent.com/Ivsoffy/Ivsoffy/main/intro.gif" alt="👋 Hi there! I'm Sofia" title="👋 Hi there! I'm reza"/>
