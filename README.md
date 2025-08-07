@@ -9,4 +9,6 @@
     <img src="https://img.shields.io/badge/GitLab-blue?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Ivsoffy&style=flat-square&color=blue" alt=""/>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ivsoffy&style=flat-square&color=blue" alt=""/>
+</div>
